@@ -36,3 +36,9 @@ I'm always open to collaborating on interesting projects, discussing new ideas, 
 ### 🎉 Fun Fact
 
 When I'm not coding, you can probably find me optimizing my custom-built PC setup, diving into a heavy narrative-driven game, or trying to stop my three cats from sleeping on my keyboard. 🐈🎮
+
+<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6e07f525-476c-4220-ac41-ef47c573b5e6" alt="Luna, Greg e Marceline" width="380" style="border-radius: 10px;" />
+</div>
+
