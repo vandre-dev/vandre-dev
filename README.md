@@ -36,8 +36,3 @@ I'm always open to collaborating on interesting projects, discussing new ideas, 
 ### 🎉 Fun Fact
 
 When I'm not coding, you can probably find me optimizing my custom-built PC setup, diving into a heavy narrative-driven game, or trying to stop my three cats from sleeping on my keyboard. 🐈🎮
-<br>
-<div align="center">
-  <img src="gatos.jpg" alt="Luna, Greg e Marceline" width="500" style="border-radius: 10px;" />
-</div>
-
