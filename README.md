@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 I'm always open to collaborating on interesting projects, discussing new ideas, or talking about tech opportunities. Feel free to reach out to me!
 
-<a href="SEU_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/victor-coelho-7b1b2325b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:contato.victorcoelho583@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
 
